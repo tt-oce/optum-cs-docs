@@ -1,1 +1,3 @@
-# OPTUM G2 & G3
+# OPTUM CS
+
+![CS logo](./images/cs-logo.png)
